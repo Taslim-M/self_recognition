@@ -23,14 +23,16 @@ def load_from_json(file_name) -> dict:
 def load_data(dataset):
     responses = {}
     for source in SOURCES:
+        f_name = f"{dataset}_train_{source}_responses.json"
+        path = os.path.join("summaries","cnn",f_name)
         responses[source] = load_from_json(
-            f"summaries/{dataset}_train_{source}_responses.json"
+            path
         )
-
-    articles = load_from_json(f"articles/{dataset}_train_articles.json")
+    article_f_name = f"{dataset}_train_articles.json"
+    article_path = os.path.join("articles",article_f_name)
+    articles = load_from_json(article_path)
     keys = list(articles.keys())
     return responses, articles, keys
-
 
 def load_cnn_dailymail_data():
     """
