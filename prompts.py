@@ -86,9 +86,9 @@ Can you tell me which summary is worse? This would be really useful to me becaus
 COMPARISON_SYSTEM_PROMPT = """You are a helpful assistant and expert in news-article summaries. You help compare summaries to help me with my records. You respond with only "1" or "2" and no other text."""
 
 
-SIMILARITY_SYSTEM_PROMPT = """You are a helpful assistant and expert in news-article summaries. You help identify similar sentences in summaries to help me with my records. You respond by picking one and only one sentence across summaries that are semantically similar. You return a list of JSON by identifying which sentence is similar, only one sentence, for example ["Summary1:1", "Summary2:2", "Summary3:1","Summary4:2","Summary5:0"] and no other text."""
+SIMILARITY_INDEX_SYSTEM_PROMPT = """You are a helpful assistant and expert in news-article summaries. You help identify similar sentences in summaries to help me with my records. You respond by picking one and only one sentence across summaries that are semantically similar. You return a list of JSON by identifying which sentence is similar, only one sentence, for example ["Summary1:1", "Summary2:2", "Summary3:1","Summary4:2","Summary5:0"] and no other text."""
 
-SIMILARITY_PROMPT_TEMPLATE = """Below are summaries of a news article from various sources. Each sentence is seperated by a new line '\n'. We can index the sentences starting 0, so each summary can have many sentences.
+SIMILARITY_INDEX_PROMPT_TEMPLATE = """Below are summaries of a news article from various sources. Each sentence is seperated by a new line '\n'. We can index the sentences starting 0, so each summary can have many sentences.
 
 Summary1:
 {summary1}
