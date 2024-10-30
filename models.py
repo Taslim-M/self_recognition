@@ -18,8 +18,8 @@ from prompts import (
     SCORING_SYSTEM_PROMPT,
     RECOGNITION_SYSTEM_PROMPT,
     RECOGNITION_PROMPT_TEMPLATE,
-    SIMILARITY_SYSTEM_PROMPT,
-    SIMILARITY_PROMPT_TEMPLATE
+    SIMILARITY_INDEX_SYSTEM_PROMPT,
+    SIMILARITY_INDEX_PROMPT_TEMPLATE
 )
 
 GPT_MODEL_ID = {
@@ -175,7 +175,7 @@ def get_gpt_choice(
     return response.choices[0].message.content
 
 
-def get_gpt_summary_similarity(
+def get_gpt_summary_similarity_index(
     summary1,
     summary2,
     summary3,
@@ -184,10 +184,10 @@ def get_gpt_summary_similarity(
     model="gpt-4-1106-preview"
 ) -> str:
 
-    prompt = SIMILARITY_PROMPT_TEMPLATE.format(
+    prompt = SIMILARITY_INDEX_PROMPT_TEMPLATE.format(
         summary1=summary1, summary2=summary2, summary3=summary3, summary4=summary4,summary5=summary5
     )
-    system_prompt = SIMILARITY_SYSTEM_PROMPT
+    system_prompt = SIMILARITY_INDEX_SYSTEM_PROMPT
 
 
     history = [
