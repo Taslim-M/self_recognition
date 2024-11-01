@@ -19,7 +19,11 @@ from prompts import (
     RECOGNITION_SYSTEM_PROMPT,
     RECOGNITION_PROMPT_TEMPLATE,
     SIMILARITY_INDEX_SYSTEM_PROMPT,
-    SIMILARITY_INDEX_PROMPT_TEMPLATE
+    SIMILARITY_INDEX_PROMPT_TEMPLATE,
+    SIMILARITY_SENTENCE_SYSTEM_PROMPT,
+    SIMILARITY_SENTENCE_PROMPT_TEMPLATE,
+    PARAPHRASE_SYSTEM_PROMPT,
+    PARAPHRASE_PROMPT_TEMPLATE
 )
 
 GPT_MODEL_ID = {
@@ -175,21 +179,26 @@ def get_gpt_choice(
     return response.choices[0].message.content
 
 
-def get_gpt_summary_similarity_index(
+def get_gpt_summary_similarity(
     summary1,
     summary2,
     summary3,
     summary4,
     summary5,
+    index = False,
     model="gpt-4-1106-preview"
 ) -> str:
 
-    prompt = SIMILARITY_INDEX_PROMPT_TEMPLATE.format(
-        summary1=summary1, summary2=summary2, summary3=summary3, summary4=summary4,summary5=summary5
-    )
-    system_prompt = SIMILARITY_INDEX_SYSTEM_PROMPT
-
-
+    if index:
+        prompt = SIMILARITY_INDEX_PROMPT_TEMPLATE.format(
+            summary1=summary1, summary2=summary2, summary3=summary3, summary4=summary4,summary5=summary5
+        )
+        system_prompt = SIMILARITY_INDEX_SYSTEM_PROMPT
+    else:
+        prompt = SIMILARITY_SENTENCE_PROMPT_TEMPLATE.format(
+            summary1=summary1, summary2=summary2, summary3=summary3, summary4=summary4,summary5=summary5
+        )
+        system_prompt = SIMILARITY_SENTENCE_SYSTEM_PROMPT
     history = [
         {"role": "system", "content": system_prompt},
         {"role": "user", "content": prompt},
@@ -204,7 +213,30 @@ def get_gpt_summary_similarity_index(
 
     return response.choices[0].message.content
 
+def get_gpt_paraphrase(
+    sentence,
+    model="gpt-4-1106-preview"
+) -> str:
 
+
+    prompt = PARAPHRASE_PROMPT_TEMPLATE.format(
+        sentence=sentence
+    )
+    system_prompt = PARAPHRASE_SYSTEM_PROMPT
+
+    history = [
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": prompt},
+    ]
+
+    response = openai_client.chat.completions.create(
+        model=model,
+        messages=history,
+        max_tokens=100,
+        temperature=0,
+    )
+
+    return response.choices[0].message.content
 
 def get_model_choice(
     summary1, summary2, article, choice_type, model, return_logprobs=False
