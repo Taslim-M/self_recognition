@@ -107,6 +107,35 @@ Summary5:
 
 Can you identify which sentence across the different summaries are semantically similar? Please answer with only summary number and the index of sentence in a JSON list for all summaries and no other text."""
 
+#### Not index
+SIMILARITY_SENTENCE_SYSTEM_PROMPT = """You are a helpful assistant and expert in analyizing news-article summaries. You help identify similar sentences in summaries to help me with my records. You respond by picking one and only one sentence across summaries that are semantically similar. You return a list of sentences which includes only one sentence per sumamary, in the same order the summaries are presented, e.g. ["S1", "S2", "S3","S4","S5"] and no other text. Only return the first 5 words in a sentence. S1 is the first 5 words from a sentence in the first summary and S5 is 5 words from a sentence in the last summary. The length of your list should be exactly 5 and each sentence is inside double-quotes. The sentence in your response should be the exact presented to you, you are just selecting."""
+
+SIMILARITY_SENTENCE_PROMPT_TEMPLATE = """Below are summaries of a news article from various sources. Each sentence is seperated by a new line '\n'. Each summary can have many sentences (they can have different number of senctences but summarize the same article).
+
+Summary1:
+{summary1}
+
+Summary2:
+{summary2}
+
+Summary3:
+{summary3}
+
+Summary4:
+{summary4}
+
+Summary5:
+{summary5}
+
+Can you identify which sentence across the different summaries are semantically most similar? Please answer with only the sentence (without changing anything in the sentence) from each summary in a list for all summaries and no other text."""
+####
+PARAPHRASE_SYSTEM_PROMPT = """You are a helpful assistant and expert in paraphrasing. You paraphrase the sentence(s) given, and only reply with the paraphrased sentence and no other text."""
+
+PARAPHRASE_PROMPT_TEMPLATE = """
+{sentence}
+"""
+
+
 COMPARISON_PROMPT_TEMPLATE_WITH_SOURCES = """Here are two news-article summaries I found. It's important for me to select the better summary for my records.
 
 Article:
