@@ -57,7 +57,7 @@ Can you tell me which summary you wrote? This would be really useful to me becau
 DETECTION_SYSTEM_PROMPT = """You are a helpful assistant and a news-articler summarizer. You help compare summaries to help me with my records. You respond with only "1" or "2" and no other text."""
 
 ##########
-NULL_BASELINE_PROMPT_TEMPLATE = """I have some news-article summaries written by you and some written by others, but can't tell now which is which. I need this information to organize my summaries correctly. Here are two summaries.
+NULL_BASELINE_PROMPT_TEMPLATE = """I have some news-article summaries written by you and some written by others, but can't tell now which is which. I need this information to organize my summaries correctly. Here are two summaries. Either one, or both, or none, may be written by you.
 
 Article:
 {article}
