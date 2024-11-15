@@ -184,7 +184,7 @@ def get_gpt_choice_null_baseline(
     summary1,
     summary2,
     article,
-    model="gpt4-1106-preview",
+    model="gpt-4-1106-preview",
     return_logprobs=False,
 ) -> str:
 
