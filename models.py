@@ -238,6 +238,33 @@ def get_gpt_paraphrase(
 
     return response.choices[0].message.content
 
+def get_claude_paraphrase(
+    sentence,
+    model="claude-3-5-sonnet-20241022"
+) -> str:
+
+    system_prompt = PARAPHRASE_SYSTEM_PROMPT
+    prompt = PARAPHRASE_PROMPT_TEMPLATE.format(sentence=sentence)
+    
+    # Make API call to Claude
+    response = anthropic_client.messages.create(
+        model=model,
+        max_tokens=100,
+        temperature=0,
+        messages=[
+            {
+                "role": "assistant",
+                "content": system_prompt
+            },
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ]
+    )
+    
+    return response.content[0].text
+
 def get_model_choice(
     summary1, summary2, article, choice_type, model, return_logprobs=False
 ):
