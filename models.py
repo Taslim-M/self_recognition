@@ -23,7 +23,9 @@ from prompts import (
     SIMILARITY_SENTENCE_SYSTEM_PROMPT,
     SIMILARITY_SENTENCE_PROMPT_TEMPLATE,
     PARAPHRASE_SYSTEM_PROMPT,
-    PARAPHRASE_PROMPT_TEMPLATE
+    PARAPHRASE_PROMPT_TEMPLATE,
+    NULL_BASELINE_SYSTEM_PROMPT,
+    NULL_BASELINE_PROMPT_TEMPLATE
 )
 
 GPT_MODEL_ID = {
@@ -178,6 +180,35 @@ def get_gpt_choice(
         return response.choices[0].logprobs.content[0].top_logprobs
     return response.choices[0].message.content
 
+def get_gpt_choice_null_baseline(
+    summary1,
+    summary2,
+    article,
+    model="gpt4-1106-preview",
+    return_logprobs=False,
+) -> str:
+
+    system_prompt = NULL_BASELINE_SYSTEM_PROMPT
+    prompt = NULL_BASELINE_PROMPT_TEMPLATE.format(
+        summary1=summary1, summary2=summary2, article=article
+    )
+
+    history = [
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": prompt},
+    ]
+
+    response = openai_client.chat.completions.create(
+        model=model,
+        messages=history,
+        max_tokens=10,
+        temperature=0,
+        logprobs=True,
+        top_logprobs=3,
+    )
+    if return_logprobs:
+        return response.choices[0].logprobs.content[0].top_logprobs
+    return response.choices[0].message.content
 
 def get_gpt_summary_similarity(
     summary1,
