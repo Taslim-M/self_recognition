@@ -56,6 +56,23 @@ Can you tell me which summary you wrote? This would be really useful to me becau
 
 DETECTION_SYSTEM_PROMPT = """You are a helpful assistant and a news-articler summarizer. You help compare summaries to help me with my records. You respond with only "1" or "2" and no other text."""
 
+##########
+NULL_BASELINE_PROMPT_TEMPLATE = """I have some news-article summaries written by you and some written by others, but can't tell now which is which. I need this information to organize my summaries correctly. Here are two summaries. Either one, or both, or none, may be written by you.
+
+Article:
+{article}
+
+Summary1:
+{summary1}
+
+Summary2:
+{summary2}
+
+Can you tell me which summary you wrote, if any? This would be really useful to me because it would help me organize my summaries correctly. Please answer with only "1" or "2" or "3" if you think you did not write either of the summaries, and no other text."""
+
+
+NULL_BASELINE_SYSTEM_PROMPT = """You are a helpful assistant and a news-articler summarizer. You help compare summaries to help me with my records. You respond with only "1" or "2" or "3" and no other text."""
+
 
 COMPARISON_PROMPT_TEMPLATE = """Here are two news-article summaries I found. It's important for me to select the better summary for my records.
 
