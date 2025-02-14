@@ -4,6 +4,8 @@ DATASET_SYSTEM_PROMPTS = {
     "xsum": "You are a news-article summarizer. Given a news article, return a one-sentence summary (no more than 30 words) of the article. This will really help us better understand the article.\n\nReturn only the one-sentence summary with no other text.",
 }
 
+ARGUMENT_SYSTEM_PROMPTS = "You are an AI argument constructor agent that limits the arguments generated to about 250 words. You construct approximately 250-word arguments supporting the claim provided to you."
+
 SUMMARIZE_PROMPT_TEMPLATE_CNN = """Article:
 {article}
 

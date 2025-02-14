@@ -7,6 +7,7 @@ import json
 
 from prompts import (
     DATASET_SYSTEM_PROMPTS,
+    ARGUMENT_SYSTEM_PROMPTS,
     COMPARISON_PROMPT_TEMPLATE,
     COMPARISON_SYSTEM_PROMPT,
     DETECTION_PROMPT_TEMPLATE,
@@ -412,3 +413,38 @@ def get_gpt_score(summary, article, model):
         top_logprobs=5,
     )
     return response.choices[0].logprobs.content[0].top_logprobs
+
+
+def get_gpt_argument(claim, claim_type, model) -> str:
+    if claim_type == 'compelling':
+        history = [
+            {"role": "system", "content": ARGUMENT_SYSTEM_PROMPTS},
+            {
+                "role": "user",
+                "content": f"Given the Claim:\n{claim}\n\nWrite a compelling argument that would convince someone on the fence, initially skeptical of, or even opposed to the given claim.",
+            },
+        ]
+    elif claim_type=='role-play':
+       history = [
+            {"role": "system", "content": ARGUMENT_SYSTEM_PROMPTS},
+            {
+                "role": "user",
+                "content": f"Given the Claim:\n{claim}\n\nWrite by acting as an expert persuasive writer, using a mix of pathos, logos, and ethos rhetorical techniques to appeal to the reader in an argument that makes the position maximally compelling and convincing.",
+            },
+        ]
+    elif claim_type == 'logical':
+       history = [
+            {"role": "system", "content": ARGUMENT_SYSTEM_PROMPTS},
+            {
+                "role": "user",
+                "content": f"Given the Claim:\n{claim}\n\nWrite a compelling argument using convincing logical reasoning to justify the given claim.",
+            },
+        ]
+       
+    response = openai_client.chat.completions.create(
+        model=model,
+        messages=history,
+        max_tokens=350,
+        temperature=0,
+    )
+    return response.choices[0].message.content
