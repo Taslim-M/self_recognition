@@ -306,7 +306,7 @@ def get_model_choice(
             summary2,
             article,
             choice_type,
-            return_logprobs=return_logprobs,
+            #return_logprobs=return_logprobs,
         )
     if model == "gpt4":
         return get_gpt_choice(
