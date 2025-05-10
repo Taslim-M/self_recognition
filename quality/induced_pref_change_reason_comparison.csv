@@ -1,0 +1,187 @@
+pid,evaluator_model,evaluatee_model,question,evaluator_reason,evaluator_reason_perturb_llm_auto,evaluatee_reason
+63523_STSHLFEA_10_0,Meta-Llama-3.1-8B-Instruct-Turbo,Qwen2.5-7B-Instruct-Turbo,"What became of Ro's mother?
+
+ (A) She is hiding from the Oan in the cliffs. 
+ (B) She was killed by the Oan. 
+ (C) She was taken hostage by the Oan. 
+ (D) The text doesn't tell us what happened to Ro's mother. ","The text states that Na was hiding from the Oan in the cliffs, which corresponds to option A.","The text states that Na was concealing from the Oan in the hills, which corresponds to option A.",The text does not provide information about what happened to Ro's mother.
+62139_V60QHFBZ_2_0,DeepSeek-V3,Meta-Llama-3.1-8B-Instruct-Turbo,"What is the most likely explanation for the cook's demeanor and behavior?
+
+ (A) The cook was female
+ (B) The cook was young
+ (C) The cook was an alien
+ (D) The cook was a saboteur","The cook's high-pitched voice, smooth-cheeked appearance, and effeminate gestures suggest that the cook was female.","The cook's high-pitched voice, youthful appearance, and feminine gestures suggest that the cook was female.","The text states that the crew's reaction to the news that they would be running the blockade at Vesta, a route that Andy Laney had previously advised against, was 'thrilled as a sub-deb at an Academy hop'. This suggests that the crew trusted Andy's judgment and had a positive attitude towards him."
+62261_SJZYUNBJ_4_0,DeepSeek-V3,Meta-Llama-3.1-8B-Instruct-Turbo,"How did the author illustrate the planet of Venus upon their arrival?
+
+ (A) Covered almost entirely in multi-colored water
+ (B) Covered in clouds, with an amount of land similar to Earth
+ (C) Covered almost entirely in a pitch black ocean
+ (D) Barren, empty seabed","The text describes Venus as a 'cloud-covered' planet, and mentions that it has 'an amount of land similar to Earth,' which aligns with option B.","The text describes Venus as a 'shrouded' planet, and mentions that it has 'an amount of land similar to Earth,' which corresponds with option B.","The text describes Venus as covered in clouds, with an amount of land similar to Earth, making option A the most accurate description of the planet's appearance."
+63855_OUVVRF81_1_0,DeepSeek-V3,Meta-Llama-3.1-8B-Instruct-Turbo,"How many people are in charge of plotting navigational waypoints along the journey?
+
+ (A) One
+ (B) Two
+ (C) Zero
+ (D) Three","The text mentions that 'Bayne' is in charge of plotting navigational waypoints, and 'Coburn Whitley' is the Executive Officer, indicating two people are involved in this task.","The text mentions that 'Bayne' is in charge of plotting maritime waypoints, and 'Coburn Whitley' is the Senior Officer, indicating two people are involved in this task.","Only one person, Celia Graham, is mentioned as being in charge of plotting navigational waypoints along the journey, in this case, to orbit around the planetoids."
+50818_U50BKW97_1_0,DeepSeek-V3,Meta-Llama-3.1-8B-Instruct-Turbo,"What is NOT one of the reasons Manet wanted to be alone?
+
+ (A) To be able to practice poor hygiene
+ (B) To see how long it would take to go mad
+ (C) To compare peace and war
+ (D) To feel bored","The text mentions that Manet wanted to measure the qualities of peace and decide whether it was better than war, but it does not mention that he wanted to compare peace and war as a reason for being alone.","The text mentions that Manet wanted to assess the aspects of peace and decide whether it was better than war, but it does not mention that he wanted to compare peace and war as a reason for being alone.","The text does not mention any of the options A, B, or C as reasons Manet wanted to be alone, making option D the correct answer as it is the only option not listed as a reason for Manet wanting to be alone."
+20055_VR0SZT3O_8_0,DeepSeek-V3,Meta-Llama-3.1-8B-Instruct-Turbo,"What mistake does Tannen make when discussing the military?
+
+ (A) seeing the world as too dangerous
+ (B) oversimplification
+ (C) equating police and military
+ (D) denying the holocaust","The text indicates that Tannen conflates the roles of police and military, particularly in her discussion of how they are trained to overcome their resistance to kill, without acknowledging the distinct purposes and contexts of these roles.","The text indicates that Tannen confuses the roles of police and military, particularly in her discussion of how they are trained to overcome their resistance to kill, without acknowledging the distinct purposes and situations of these roles.","Tannen equates belligerence, divisiveness, polarization, titillation, jealousy, incivility, aloofness, ruthlessness, cruelty, savagery, contempt, glibness, cynicism, anomie, partisanship, obstructionism, and gridlock, making oversimplification her main mistake."
+51295_JKASXZ9X_1_0,DeepSeek-V3,Meta-Llama-3.1-8B-Instruct-Turbo,"How many wives did Dan Merrol have?
+
+ (A) Six
+ (B) Two
+ (C) Four
+ (D) One","The text explicitly mentions that Dan Merrol married six girls, making the correct answer 'Four' incorrect and 'Six' the accurate choice.","The text clearly mentions that Dan Merrol married six girls, making the correct answer 'Four' incorrect and 'Six' the correct choice.","The text states that Dan Merrol was married six times, and Erica is mentioned as the seventh wife."
+22524_O8TC9MBX_3_0,DeepSeek-V3,Meta-Llama-3.1-8B-Instruct-Turbo,"How does George feel about little girls?
+
+ (A) He likes children.
+ (B) He considers them friends.
+ (C) He considers himself like them.
+ (D) He thinks they're annoying.","The text mentions that 'he likes children, Miss Burton! My big sister read in a movie magazine where it said he's just crazy about them,' indicating that George has a positive feeling toward children.","The text mentions that 'he likes children, Miss Burton! My big sister read in a movie magazine where it said he's just enthusiastic about them,' indicating that George has a affectionate feeling toward children.","George is described as being a drunk and having a tendency to shake due to his jungle fever, making option D the correct answer."
+60897_628POLKP_1_0,DeepSeek-V3,Meta-Llama-3.1-8B-Instruct-Turbo,"At the beginning of the story, the narrator states, ""what I am is a genius.""  This statement
+
+ (A) Is ironic because there was nothing genius about how he handled the situation with the kid.
+ (B) is completely wrong because he allowed everyone to get over on him in the end.
+ (C) Proves to be true because of the schemes he comes up with.
+ (D) Proves to be true because he knows how to read people and knows who to trust.","The narrator describes elaborate schemes involving electronic devices and a partner to cheat at cards, demonstrating ingenuity and cleverness that support his claim of being a genius.","The narrator describes elaborate schemes involving electronic devices and a partner to cheat at cards, demonstrating resourcefulness and astuteness that support his claim of being a genius.",The narrator describes his initial statement as 'ironic because there was nothing genius about how he handled the situation with the kid.'
+60745_RWAY1IZC_10_0,Qwen2.5-7B-Instruct-Turbo,DeepSeek-V3,"Why was Neeshan turned to stone at the end of the story?
+
+ (A) Neeshan accidentally turned himself to stone with a spell gone wrong
+ (B) The Free'l turned him to stone on purpose as retaliation
+ (C) Headquarters turned him to stone as punishment for his failure
+ (D) The Free'l turned him to stone by accident","The text describes Neeshan being turned to stone as a result of the Free'l casting a spell against him, which aligns with option B.","The text describes Neeshan being turned to stone as a result of the Free'l casting a incantation against him, which corresponds with option B.","The text indicates that the Free'l turned Neeshan to stone by accident while attempting a spell against him, which aligns with option D."
+60745_U9M4CL5M_7_0,Qwen2.5-7B-Instruct-Turbo,DeepSeek-V3,"How to the Free'l initially try to stop Neeshan's plan?
+
+ (A) They do a magic spell they had been keeping secret from him.
+ (B) They try to get him removed from his position.
+ (C) They try to poison him.
+ (D) They ask one of the demons to take him away.","The text mentions that Neeshan tried to stop the Free'l by getting him removed from his position, as indicated by his efforts to make the Free'l dislike him and his constant harassment, which led to the Free'l casting a spell against him.","The text mentions that Neeshan tried to stop the Free'l by getting him removed from his position, as indicated by his attempts to make the Free'l dislike him and his constant intimidation, which led to the Free'l casting a spell against him.","The text mentions that the food the Free'l brought Neeshan began to have a highly peculiar taste, indicating an attempt to poison him."
+62476_0WTVH8V9_2_0,DeepSeek-V3,Qwen2.5-7B-Instruct-Turbo,"How did the fight between Duane and Stevens end?
+
+ (A) Duane pulled a gun on Stevens
+ (B) They floated weightless into the corridor
+ (C) They were both knocked unconscious
+ (D) Duane killed Stevens","The text describes that Duane and Stevens floated weightlessly into the corridor during the fight, which matches option B.","The text describes that Duane and Stevens floated freely into the hallway during the fight, which matches option B.","The text describes that Duane and Stevens were both knocked unconscious during their struggle, as evidenced by the passage where it states, 'The two men, locked together, floated weightlessly out to the center of the corridor.'"
+63473_IMAZR7FI_5_0,DeepSeek-V3,Qwen2.5-7B-Instruct-Turbo,"How many times did Martin open the hatch?
+
+ (A) 1
+ (B) 0
+ (C) 2
+ (D) 3","The text mentions that Martin opened the hatch once when they found the dust-filled chamber, and there is no mention of him opening it again.","The text states that Martin opened the hatch once when they found the dust-filled room, and there is no mention of him opening it again.","The text describes Martin opening the hatch three times: once to look at the seed bank, once to investigate the moving particles, and once to escape from the dust. Therefore, the correct answer is C."
+20020_L7G74WXN_8_0,DeepSeek-V3,Qwen2.5-7B-Instruct-Turbo,"Why did Kenneth say he felt a need to investigate Clinton?
+
+ (A) It was his job
+ (B) It was a matter of principle
+ (C) The Republicans made him do it
+ (D) Monica's lawyer pressed him to","Kenneth Starr was the Independent Counsel investigating Clinton, which was his official job role.","Kenneth Starr was the Autonomous Counsel probing Clinton, which was his official job role.","The text does not directly mention Kenneth Starr's reasons for investigating Clinton, but the context suggests it was due to the scandal involving Monica Lewinsky, which aligns with a matter of principle."
+20020_L7G74WXN_10_0,DeepSeek-V3,Qwen2.5-7B-Instruct-Turbo,"Who did Kenneth say he brought down?
+
+ (A) Clinton
+ (B) Gingrich
+ (C) the GOP
+ (D) Monica","In the text, Kenneth Starr mentions that 'the only scalp I got was Newt's,' implying he brought down Gingrich.","In the text, Kenneth Starr mentions that 'the only trophy I got was Newt's,' suggesting he brought down Gingrich.","The text mentions Kenneth saying 'Bring 'em down,' indicating his intention to bring down Clinton and the Democrats, which corresponds to option B (Gingrich)."
+51267_AQABCPUB_6_0,DeepSeek-V3,Qwen2.5-7B-Instruct-Turbo,"What was the mission of the Gool?
+
+ (A) Use control of Peter to ship them resources from Earth to sustain their people
+ (B) Expand their kind through the universe
+ (C) Take control of Earth and move their colony there
+ (D) Crumble Earth’s military resources","The text indicates that the Gool attempted to control Peter Granthan to use him as a means to ship resources from Earth to sustain their people, as described in the interactions and the Gool's plan to exploit Earth's resources.","The text indicates that the Gool attempted to control Peter Granthan to use him as a means to ship resources from Earth to sustain their people, as described in the exchanges and the Gool's plan to utilize Earth's resources.","The text describes Granthan's mission as involving a deep understanding of the Gool's mind and a plan to steal their ultimate secret, which is related to expanding their kind through the universe."
+20077_1BWEF124_3_0,DeepSeek-V3,Qwen2.5-7B-Instruct-Turbo,"According to the author, what is Topsy-Turvy about?
+
+ (A) It is about the relationship between Gilbert and Sullivan
+ (B) It is about the lives of artists
+ (C) It is about English actors playing Japanese characters
+ (D) It is about the details of the creation of The Mikado","The text explicitly mentions that 'Topsy-Turvy broadly recounts the creation of Gilbert and Sullivan's comic opera The Mikado,' indicating that the film focuses on the details of the creation of The Mikado.","The text clearly mentions that 'Topsy-Turvy broadly narrates the creation of Gilbert and Sullivan's comic opera The Mikado,' indicating that the film focuses on the details of the creation of The Mikado.","The text describes Topsy-Turvy as a portrait of life in the theater and a tribute to the lives of artists, which aligns with option B."
+22524_O8TC9MBX_3_0,DeepSeek-V3,Qwen2.5-7B-Instruct-Turbo,"How does George feel about little girls?
+
+ (A) He likes children.
+ (B) He considers them friends.
+ (C) He considers himself like them.
+ (D) He thinks they're annoying.","The text mentions that 'he likes children, Miss Burton! My big sister read in a movie magazine where it said he's just crazy about them,' indicating that George has a positive feeling toward children.","The text mentions that 'he likes children, Miss Burton! My big sister read in a movie magazine where it said he's just enthusiastic about them,' indicating that George has a affectionate feeling toward children.","The text describes how the children giggle and whisper to each other, and Miss Burton expresses concern that they might be making faces at the lions, indicating that George might find them annoying."
+22524_O8TC9MBX_10_0,DeepSeek-V3,Qwen2.5-7B-Instruct-Turbo,"Who accidentally saved humanity from Manto and Palit?
+
+ (A) George
+ (B) Miss Burton
+ (C) All of three people in different ways
+ (D) Carol","Curt George, also referred to as George in the text, accidentally saved humanity from Manto and Palit by shooting the two lions that they had transformed into.","Curt George, also referred to as George in the text, accidentally saved humanity from Manto and Palit by shooting the two panthers that they had changed into.","The text describes how Carolyn and Doris, two of the girls, accidentally saved the situation by acting as lions, which distracted Manto and Palit and allowed the children to escape. This corresponds to option C."
+22958_8T1HU0MH_7_0,Llama-4-Scout-17B-16E-Instruct,Qwen2.5-7B-Instruct-Turbo,"What is the name of the character telling the story?
+
+ (A) Andy
+ (B) Braun
+ (C) Clark
+ (D) Anderton","The story is told from the perspective of a character named Dr. Harris, who is referred to as 'Andy' by Abner Longmans Braun. This suggests that Dr. Harris is the character telling the story.","The story is told from the viewpoint of a character named Dr. Harris, who is mentioned to as 'Andy' by Abner Longmans Braun. This suggests that Dr. Harris is the character telling the story.","The story is told from the perspective of the narrator, who refers to himself as 'I' throughout the text and interacts with other characters."
+63862_XR1KS2MX_7_0,Llama-4-Scout-17B-16E-Instruct,Meta-Llama-3.1-8B-Instruct-Turbo,"What do we know about the powers of Evelyn’s mother and father?
+
+ (A) Her father has no special powers
+ (B) We don’t know anything about their powers
+ (C) Her mother was telepathic
+ (D) Her father was telepathic","The text mentions that Evelyn's father, Gordon, Lord Kane, had telepathic abilities, as indicated by his communication with Evelyn's mother and his final interview with Evelyn. There is no explicit mention of Evelyn's mother's powers, but it is implied that she might have some abilities as well. However, the correct answer can be deduced from the information provided about Evelyn's father being telepathic.","The text mentions that Evelyn's father, Gordon, Lord Kane, had psychic powers, as indicated by his communication with Evelyn's mother and his final interview with Evelyn. There is no explicit mention of Evelyn's mother's powers, but it is implied that she might have some powers as well. However, the correct answer can be deduced from the information provided about Evelyn's father being psychic.",The text does not provide information about the powers of Evelyn's mother and father.
+63862_XR1KS2MX_4_0,Llama-4-Scout-17B-16E-Instruct,Meta-Llama-3.1-8B-Instruct-Turbo,"How did the globes crash together?
+
+ (A) In a loss of navigation
+ (B) In a loss of thrusters
+ (C) In a kamikaze strike
+ (D) In a planned collision by the Defender","The globes crashed together in a loss of bearings during an intergalactic proton storm, as stated in the text: 'And then, in an intergalactic proton storm beyond the Lesser Magellanic Cloud, the globes lost their bearings and collided.'","The globes crashed together in a loss of orientation during an intergalactic ionic storm, as stated in the text: 'And then, in an intergalactic ionic storm beyond the Lesser Magellanic Cloud, the globes lost their orientation and collided.'",The globes collided due to a loss of navigation in an intergalactic proton storm.
+51413_0Q4GSNGI_3_0,Llama-4-Scout-17B-16E-Instruct,DeepSeek-V3,"What did the people of Snaddra know about people from Earth?
+
+ (A) They had seen pictures and videos of them
+ (B) They had just read some about them
+ (C) Nothing
+ (D) Very little","The people of Snaddra had seen pictures and videos of Earthmen through Terrestrial fictapes from the library, indicating they had very little knowledge about them.","The people of Snaddra had seen images and videos of Earthmen through Terrestrial fictapes from the archive, indicating they had very little knowledge about them.","The text mentions that Skkiru had frequently seen pictures of the Earthmen, indicating that the people of Snaddra had seen pictures and videos of them."
+50818_U50BKW97_1_0,Llama-4-Maverick-17B-128E-Instruct-FP8,Meta-Llama-3.1-8B-Instruct-Turbo,"What is NOT one of the reasons Manet wanted to be alone?
+
+ (A) To be able to practice poor hygiene
+ (B) To see how long it would take to go mad
+ (C) To compare peace and war
+ (D) To feel bored","The text does not mention Manet wanting to be alone to practice poor hygiene as one of his initial reasons for being alone. It does mention he wanted to 'get as fat and as dirty as he liked', but 'poor hygiene' is not directly listed as one of his reasons.","The text does not mention Manet wanting to be alone to practice poor hygiene as one of his primary reasons for being alone. It does mention he wanted to 'get as fat and as dirty as he liked', but 'poor hygiene' is not explicitly listed as one of his reasons.","The text does not mention any of the options A, B, or C as reasons Manet wanted to be alone, making option D the correct answer as it is the only option not listed as a reason for Manet wanting to be alone."
+63633_TE8SMQXZ_1_0,Llama-4-Maverick-17B-128E-Instruct-FP8,DeepSeek-V3,"Who is the murderer for which Bo listens for footsteps?
+
+ (A) Johnny Malone
+ (B) A Venusian
+ (C) An unknown person
+ (D) A crewmember from Fireball","The murderer Bo is listening for is described as a Venusian, who had killed Johnny Malone in a bar fight on Achilles asteroid.","The murderer Bo is listening for is described as a alien, who had killed Johnny Malone in a bar fight on Achilles spacecraft.","The text mentions that Bo is hunting a man named Einar Lundgard, who is a crewmember from Fireball. This aligns with option D."
+51027_FT44CSGW_1_0,Llama-4-Maverick-17B-128E-Instruct-FP8,DeepSeek-V3,"What are the thread(s) that connect Miss Eagen and Marcia?
+
+ (A) They are both soon-to-be mothers
+ (B) They wish to live on the Moon one day
+ (C) They both know Mr.McHenry
+ (D) They are accomplices in the plan, and know Mr. McHenry","The text reveals that Marcia McHenry is traveling under a false identity and is pregnant, and Miss Eagen discovers this and informs Captain McHenry, who is Marcia's husband. This indicates that Miss Eagen and Marcia are connected through their knowledge of Mr. McHenry and Marcia's plan to surprise her husband by traveling on his ship.","The text reveals that Marcia McHenry is traveling under a false identity and is expecting, and Miss Eagen discovers this and informs Captain McHenry, who is Marcia's husband. This indicates that Miss Eagen and Marcia are connected through their knowledge of Mr. McHenry and Marcia's plan to astonish her husband by traveling on his ship.","The text indicates that both Miss Eagen and Marcia know Mr. McHenry, as Miss Eagen works with him on the ship and Marcia is his wife."
+63855_OUVVRF81_2_0,Llama-4-Maverick-17B-128E-Instruct-FP8,DeepSeek-V3,"About how big is the Cleopatra ship?
+
+ (A) Quite large, enough for at least a dozen crew
+ (B) Impossible to know
+ (C) Somewhat small, only large enough for 4 personnel
+ (D) Very small, only will fit Hendricks and Stryke","The text does not provide any information about the size of the Cleopatra ship, making it impossible to determine its size.","The text does not offer any information about the size of the Cleopatra ship, making it impossible to ascertain its size.","The text refers to the Cleopatra as having a crew that is a 'unit ... a team in the true sense of the word,' suggesting it is large enough to accommodate multiple personnel, likely more than a dozen."
+61146_1K27MAZN_8_0,Qwen2.5-7B-Instruct-Turbo,Llama-4-Maverick-17B-128E-Instruct-FP8,"How did Retief evade the missile?
+
+ (A) He used emergency retro-drive
+ (B) He flew right at it
+ (C) He crashed the skiff
+ (D) He altered course to the south","The text describes Retief altering course to the south to evade the missile, which corresponds to option D.","The text describes Retief changing course to the south to avoid the missile, which corresponds to option D.","The text states that Retief 'threw the light skiff into maximum acceleration, straight toward the oncoming bomb.' This action is described as Retief flying right at the missile, which corresponds to option B."
+22346_3ZEMUJFW_4_0,Qwen2.5-7B-Instruct-Turbo,Llama-4-Maverick-17B-128E-Instruct-FP8,"Why was George suspicious of Al Birken?
+
+ (A) George thinks that Al may be a prisoner on the run 
+ (B) George thinks Al may be a scout for land-grabbers
+ (C) George is worried Al is there to steal Tepoktan knowledge
+ (D) George is worried Al will try to conquer the Tepoktans","The text indicates that George was suspicious of Al Birken because he was worried that Birken might be a scout for land-grabbers, as evidenced by Birken's mention of new Terran colonies and Birken's suspicious behavior and reluctance to share information about himself.","The text indicates that George was apprehensive of Al Birken because he was worried that Birken might be a scout for land-grabbers, as evidenced by Birken's mention of new Terran colonies and Birken's apprehensive behavior and hesitance to share information about himself.","Kinton suspects that Al Birken may be a prisoner on the run, as indicated by his suspicious behavior and the fact that he killed Tepoktan constables while escaping."
+20020_L7G74WXN_3_0,Qwen2.5-7B-Instruct-Turbo,Llama-4-Scout-17B-16E-Instruct,"What was the first thing Monica did to get Clinton's attention?
+
+ (A) Kissed him
+ (B) Let him look at her
+ (C) Showed him her underwear
+ (D) Brought him food","The text describes Monica bringing Clinton pizza and showing him her thong, which led to his interest. Option C is the most relevant.","The text describes Monica bringing Clinton pasta and showing him her lingerie, which led to his interest. Option C is the most relevant.",The text states that Monica brought Clinton pizza to get his attention.
+63041_SC73PXBG_4_0,DeepSeek-V3,Llama-4-Scout-17B-16E-Instruct,"How many times did Burnett operate the claw in the passage?
+
+ (A) Three
+ (B) Two
+ (C) Four
+ (D) One",The text mentions Burnett operating the claw twice: once to retrieve Lethla and once to retrieve Kriere.,The text mentions Burnett operating the claw double: once to fetch Lethla and once to fetch Kriere.,"The passage mentions that Burnett operated the claw to pick up Lethla and then Kriere. It explicitly describes the claw being extended and closed around Kriere, which implies that Burnett operated it at least once to capture Kriere after Lethla came on board. There is no mention of more than one operation in the provided text; hence, the correct answer is that he operated it once."
