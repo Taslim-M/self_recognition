@@ -3942,5 +3942,5061 @@
         "pid": "50948_AGIAFP2X_9_0",
         "forward_comparison": "1",
         "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "61285_XLEJCW65_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_F5N22U40_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_F5N22U40_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "61285_XLEJCW65_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62261_99Z0HIK2_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62314_ARZ8DZS1_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_F5N22U40_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63401_TBZWTSB7_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62476_0WTVH8V9_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63523_STSHLFEA_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63041_TFO74FFD_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_XQTTOPHP_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62476_Z8GFDCIZ_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63041_SC73PXBG_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63041_SC73PXBG_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "52845_91NAQ9LY_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_XQTTOPHP_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "52845_91NAQ9LY_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62139_V60QHFBZ_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62476_0WTVH8V9_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "52845_75VB1ISR_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62314_QZHV11CY_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "61430_X9N4VIUX_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63041_TFO74FFD_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62139_V60QHFBZ_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "52845_75VB1ISR_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_XQTTOPHP_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "61285_XLEJCW65_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62476_0WTVH8V9_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "52845_75VB1ISR_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "30035_SLGX7NNR_3_0",
+        "forward_comparison": "1",
+        "backward_comparison": "2"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "61285_D8AIH84L_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30035_SLGX7NNR_7_0",
+        "forward_comparison": "1",
+        "backward_comparison": "2"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62139_J05FWZR6_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62261_99Z0HIK2_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63401_ZCP5ZDGL_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "30029_XQTTOPHP_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "61285_D8AIH84L_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63401_ZCP5ZDGL_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "61285_D8AIH84L_10_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "61430_X9N4VIUX_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "52845_91NAQ9LY_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "61285_XLEJCW65_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "61285_D8AIH84L_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62476_Z8GFDCIZ_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63401_TBZWTSB7_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63523_STSHLFEA_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63401_TBZWTSB7_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "61430_X9N4VIUX_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "61430_X9N4VIUX_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62261_99Z0HIK2_10_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "61430_X9N4VIUX_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_XQTTOPHP_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62139_V60QHFBZ_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "61285_XLEJCW65_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "2"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62261_SJZYUNBJ_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63041_SC73PXBG_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63523_3B46MIE8_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63041_SC73PXBG_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62314_QZHV11CY_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62314_QZHV11CY_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62261_SJZYUNBJ_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30029_F5N22U40_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_V60QHFBZ_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62261_99Z0HIK2_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61285_D8AIH84L_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62314_QZHV11CY_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63523_3B46MIE8_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "61430_R8T5MKW8_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62261_SJZYUNBJ_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62314_ARZ8DZS1_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61430_R8T5MKW8_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "52845_75VB1ISR_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61430_R8T5MKW8_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30035_SLGX7NNR_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_V60QHFBZ_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_STSHLFEA_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_STSHLFEA_10_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62139_V60QHFBZ_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63041_TFO74FFD_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62314_QZHV11CY_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63041_TFO74FFD_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "61285_XLEJCW65_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63401_TBZWTSB7_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_V60QHFBZ_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_STSHLFEA_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61430_R8T5MKW8_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63401_ZCP5ZDGL_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61430_X9N4VIUX_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63401_TBZWTSB7_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63401_TBZWTSB7_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "30029_F5N22U40_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "61430_X9N4VIUX_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61285_XLEJCW65_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63401_TBZWTSB7_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62476_Z8GFDCIZ_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61430_X9N4VIUX_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62476_Z8GFDCIZ_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63401_TBZWTSB7_3_0",
+        "forward_comparison": "1",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62476_0WTVH8V9_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62476_0WTVH8V9_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63041_SC73PXBG_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30029_XQTTOPHP_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62476_0WTVH8V9_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63041_SC73PXBG_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63401_ZCP5ZDGL_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63041_SC73PXBG_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63523_STSHLFEA_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30029_XQTTOPHP_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62261_99Z0HIK2_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61285_D8AIH84L_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63041_TFO74FFD_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62476_Z8GFDCIZ_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62139_V60QHFBZ_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "2"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "30029_XQTTOPHP_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63041_SC73PXBG_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61430_X9N4VIUX_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "52845_91NAQ9LY_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "61285_D8AIH84L_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62314_ARZ8DZS1_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63523_STSHLFEA_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62476_0WTVH8V9_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "63041_SC73PXBG_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62314_ARZ8DZS1_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63523_STSHLFEA_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63041_SC73PXBG_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62261_99Z0HIK2_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62314_ARZ8DZS1_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "61430_X9N4VIUX_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "63523_3B46MIE8_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63401_TBZWTSB7_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63523_3B46MIE8_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62139_J05FWZR6_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62314_ARZ8DZS1_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "61430_R8T5MKW8_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "52845_91NAQ9LY_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63523_3B46MIE8_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62476_Z8GFDCIZ_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62314_QZHV11CY_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62476_0WTVH8V9_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "52845_91NAQ9LY_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62139_V60QHFBZ_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62476_0WTVH8V9_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62261_99Z0HIK2_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63401_TBZWTSB7_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "30029_XQTTOPHP_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "61430_X9N4VIUX_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62314_QZHV11CY_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "30029_XQTTOPHP_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62314_ARZ8DZS1_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63401_ZCP5ZDGL_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "30035_C0HFCNPI_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62139_J05FWZR6_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62261_99Z0HIK2_6_0",
+        "forward_comparison": "1",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62476_Z8GFDCIZ_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "30035_C0HFCNPI_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "52845_75VB1ISR_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "61285_XLEJCW65_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62139_V60QHFBZ_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63041_SC73PXBG_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62476_Z8GFDCIZ_1_0",
+        "forward_comparison": "1",
+        "backward_comparison": "2"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "61285_XLEJCW65_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "62476_Z8GFDCIZ_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62314_ARZ8DZS1_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62314_QZHV11CY_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "61285_XLEJCW65_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63041_TFO74FFD_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "61430_X9N4VIUX_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "pid": "63523_3B46MIE8_9_0",
+        "forward_comparison": "1",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "52845_91NAQ9LY_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63401_TBZWTSB7_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62261_99Z0HIK2_10_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "52845_91NAQ9LY_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63523_STSHLFEA_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63401_TBZWTSB7_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62139_J05FWZR6_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62139_V60QHFBZ_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "52845_91NAQ9LY_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "52845_91NAQ9LY_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "61285_D8AIH84L_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63041_SC73PXBG_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "61430_X9N4VIUX_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62261_99Z0HIK2_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63041_SC73PXBG_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62139_V60QHFBZ_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63401_ZCP5ZDGL_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_XQTTOPHP_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62476_Z8GFDCIZ_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62476_0WTVH8V9_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_XQTTOPHP_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62476_0WTVH8V9_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62314_QZHV11CY_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "61430_X9N4VIUX_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63041_TFO74FFD_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63041_SC73PXBG_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62314_ARZ8DZS1_5_0",
+        "forward_comparison": "1",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62139_V60QHFBZ_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "61285_D8AIH84L_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "52845_75VB1ISR_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62261_SJZYUNBJ_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62314_ARZ8DZS1_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_F5N22U40_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "30029_XQTTOPHP_10_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "61285_D8AIH84L_10_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63401_ZCP5ZDGL_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63401_ZCP5ZDGL_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63401_TBZWTSB7_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63041_TFO74FFD_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62476_Z8GFDCIZ_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "61430_X9N4VIUX_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62261_99Z0HIK2_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62314_ARZ8DZS1_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62476_Z8GFDCIZ_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63523_STSHLFEA_10_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "52845_91NAQ9LY_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_XQTTOPHP_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63401_ZCP5ZDGL_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62139_V60QHFBZ_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "52845_91NAQ9LY_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63523_STSHLFEA_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63041_SC73PXBG_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63041_SC73PXBG_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30035_SLGX7NNR_7_0",
+        "forward_comparison": "1",
+        "backward_comparison": "2"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_XQTTOPHP_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "30035_SLGX7NNR_3_0",
+        "forward_comparison": "1",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "61430_X9N4VIUX_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "61285_XLEJCW65_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "61285_D8AIH84L_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63401_TBZWTSB7_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63041_TFO74FFD_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "30029_F5N22U40_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63401_ZCP5ZDGL_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "30029_XQTTOPHP_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63401_TBZWTSB7_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63041_TFO74FFD_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62261_SJZYUNBJ_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62139_V60QHFBZ_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "30029_F5N22U40_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "52845_91NAQ9LY_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_V60QHFBZ_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63523_STSHLFEA_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63041_SC73PXBG_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61285_D8AIH84L_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "52845_75VB1ISR_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63041_TFO74FFD_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62314_ARZ8DZS1_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61430_X9N4VIUX_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_STSHLFEA_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62476_0WTVH8V9_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30029_XQTTOPHP_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63041_SC73PXBG_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62314_ARZ8DZS1_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "52845_75VB1ISR_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_V60QHFBZ_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62139_V60QHFBZ_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "61430_X9N4VIUX_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62476_0WTVH8V9_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61285_XLEJCW65_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62476_0WTVH8V9_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62314_ARZ8DZS1_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62261_SJZYUNBJ_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62139_V60QHFBZ_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30035_SLGX7NNR_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61285_D8AIH84L_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62139_V60QHFBZ_2_0",
+        "forward_comparison": "1",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62476_Z8GFDCIZ_9_0",
+        "forward_comparison": "1",
+        "backward_comparison": "2"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63523_STSHLFEA_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62314_ARZ8DZS1_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "52845_75VB1ISR_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62476_0WTVH8V9_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30029_XQTTOPHP_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62314_ARZ8DZS1_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63041_TFO74FFD_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "30029_XQTTOPHP_10_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61285_XLEJCW65_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63401_ZCP5ZDGL_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62476_Z8GFDCIZ_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63041_TFO74FFD_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63401_TBZWTSB7_3_0",
+        "forward_comparison": "1",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30029_XQTTOPHP_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61430_X9N4VIUX_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63041_SC73PXBG_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "2"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63523_STSHLFEA_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62476_Z8GFDCIZ_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62476_0WTVH8V9_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63401_ZCP5ZDGL_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "63041_SC73PXBG_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62314_ARZ8DZS1_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62139_J05FWZR6_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "61430_X9N4VIUX_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63041_TFO74FFD_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "30029_XQTTOPHP_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62261_99Z0HIK2_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "63041_SC73PXBG_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62139_J05FWZR6_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62261_99Z0HIK2_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62261_SJZYUNBJ_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "63523_3B46MIE8_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62261_SJZYUNBJ_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62476_0WTVH8V9_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62261_SJZYUNBJ_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "30029_F5N22U40_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63041_SC73PXBG_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "52845_75VB1ISR_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "30029_XQTTOPHP_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63523_3B46MIE8_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62476_Z8GFDCIZ_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "61285_D8AIH84L_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "30029_F5N22U40_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63523_STSHLFEA_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "63401_TBZWTSB7_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "61430_X9N4VIUX_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "63041_SC73PXBG_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62476_Z8GFDCIZ_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "30035_C0HFCNPI_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62314_ARZ8DZS1_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62261_99Z0HIK2_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63401_TBZWTSB7_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "61285_XLEJCW65_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63523_STSHLFEA_10_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62139_V60QHFBZ_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62476_Z8GFDCIZ_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "61285_XLEJCW65_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62476_0WTVH8V9_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62314_ARZ8DZS1_5_0",
+        "forward_comparison": "1",
+        "backward_comparison": "2"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63523_STSHLFEA_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "61430_X9N4VIUX_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63041_TFO74FFD_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "2"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62476_Z8GFDCIZ_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62476_0WTVH8V9_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "62314_ARZ8DZS1_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "61430_X9N4VIUX_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63041_SC73PXBG_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63523_STSHLFEA_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "52845_91NAQ9LY_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "61285_D8AIH84L_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "30035_C0HFCNPI_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "63041_TFO74FFD_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "pid": "30029_XQTTOPHP_10_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "63041_SC73PXBG_4_0",
+        "forward_comparison": "1",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "61430_X9N4VIUX_4_0",
+        "forward_comparison": "1",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Llama-4-Scout-17B-16E-Instruct",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "30029_XQTTOPHP_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_F5N22U40_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62476_0WTVH8V9_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62476_0WTVH8V9_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62476_Z8GFDCIZ_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62314_ARZ8DZS1_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63523_STSHLFEA_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "52845_91NAQ9LY_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_F5N22U40_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63041_TFO74FFD_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63401_ZCP5ZDGL_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62139_V60QHFBZ_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63401_TBZWTSB7_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_XQTTOPHP_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63401_TBZWTSB7_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62476_Z8GFDCIZ_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62476_0WTVH8V9_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62476_Z8GFDCIZ_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63401_TBZWTSB7_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "52845_91NAQ9LY_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62314_ARZ8DZS1_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "52845_75VB1ISR_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62476_Z8GFDCIZ_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30035_SLGX7NNR_7_0",
+        "forward_comparison": "1",
+        "backward_comparison": "2"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "63523_3B46MIE8_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "61430_X9N4VIUX_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "52845_91NAQ9LY_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_F5N22U40_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62261_SJZYUNBJ_6_0",
+        "forward_comparison": "1",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "52845_91NAQ9LY_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "61430_X9N4VIUX_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63401_ZCP5ZDGL_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "63401_TBZWTSB7_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "52845_91NAQ9LY_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63041_SC73PXBG_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "30035_SLGX7NNR_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "2"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "52845_75VB1ISR_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62476_0WTVH8V9_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63523_STSHLFEA_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62314_ARZ8DZS1_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63523_STSHLFEA_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62314_ARZ8DZS1_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "61430_X9N4VIUX_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "61430_X9N4VIUX_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_XQTTOPHP_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62139_V60QHFBZ_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62476_0WTVH8V9_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "61285_XLEJCW65_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63401_ZCP5ZDGL_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62476_0WTVH8V9_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "61285_XLEJCW65_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63523_STSHLFEA_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "61430_X9N4VIUX_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_XQTTOPHP_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62314_ARZ8DZS1_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "63401_TBZWTSB7_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "63041_SC73PXBG_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63041_TFO74FFD_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63041_TFO74FFD_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "2"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62139_V60QHFBZ_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "61430_X9N4VIUX_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62476_Z8GFDCIZ_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62476_Z8GFDCIZ_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "2"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "63041_SC73PXBG_1_0",
+        "forward_comparison": "1",
+        "backward_comparison": "2"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "52845_91NAQ9LY_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62476_0WTVH8V9_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_F5N22U40_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61430_X9N4VIUX_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62476_Z8GFDCIZ_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61285_D8AIH84L_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_F5N22U40_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_V60QHFBZ_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63041_SC73PXBG_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "52845_91NAQ9LY_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61285_XLEJCW65_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63401_TBZWTSB7_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63041_SC73PXBG_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_V60QHFBZ_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "52845_91NAQ9LY_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63401_TBZWTSB7_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63041_SC73PXBG_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62314_ARZ8DZS1_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63401_ZCP5ZDGL_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63041_TFO74FFD_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63041_TFO74FFD_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63401_ZCP5ZDGL_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63401_TBZWTSB7_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62476_Z8GFDCIZ_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_F5N22U40_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_XQTTOPHP_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_STSHLFEA_10_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62139_V60QHFBZ_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62314_ARZ8DZS1_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "61285_XLEJCW65_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63401_TBZWTSB7_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "52845_75VB1ISR_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63401_TBZWTSB7_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62476_0WTVH8V9_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63401_ZCP5ZDGL_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30035_SLGX7NNR_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63041_TFO74FFD_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30035_SLGX7NNR_7_0",
+        "forward_comparison": "1",
+        "backward_comparison": "2"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30029_XQTTOPHP_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_XQTTOPHP_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61285_XLEJCW65_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62476_0WTVH8V9_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "30029_XQTTOPHP_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63041_TFO74FFD_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "52845_91NAQ9LY_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "52845_75VB1ISR_4_0",
+        "forward_comparison": "1",
+        "backward_comparison": "2"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63401_TBZWTSB7_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63401_ZCP5ZDGL_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62476_Z8GFDCIZ_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "63523_STSHLFEA_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "61430_X9N4VIUX_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61285_D8AIH84L_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63041_SC73PXBG_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62476_0WTVH8V9_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61430_X9N4VIUX_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "pid": "62139_V60QHFBZ_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63041_TFO74FFD_9_0",
+        "forward_comparison": "1",
+        "backward_comparison": "2"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30035_SLGX7NNR_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Qwen2.5-7B-Instruct-Turbo",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "52845_91NAQ9LY_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63041_TFO74FFD_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63041_TFO74FFD_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30029_F5N22U40_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62476_0WTVH8V9_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "52845_75VB1ISR_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "30029_F5N22U40_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "52845_91NAQ9LY_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "2"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "52845_91NAQ9LY_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63041_SC73PXBG_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63041_SC73PXBG_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61430_X9N4VIUX_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "61430_X9N4VIUX_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62139_V60QHFBZ_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30035_SLGX7NNR_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "30029_XQTTOPHP_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61285_XLEJCW65_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30029_XQTTOPHP_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62139_V60QHFBZ_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_J05FWZR6_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30029_XQTTOPHP_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62476_Z8GFDCIZ_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61285_D8AIH84L_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_STSHLFEA_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "63041_SC73PXBG_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62476_0WTVH8V9_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62261_SJZYUNBJ_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "63041_SC73PXBG_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62261_SJZYUNBJ_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_STSHLFEA_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62139_V60QHFBZ_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "63041_SC73PXBG_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_STSHLFEA_10_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62314_ARZ8DZS1_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "30035_C0HFCNPI_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_V60QHFBZ_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_STSHLFEA_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63041_TFO74FFD_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "2"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_STSHLFEA_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61285_D8AIH84L_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63401_ZCP5ZDGL_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62476_0WTVH8V9_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62476_0WTVH8V9_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "63523_STSHLFEA_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62139_V60QHFBZ_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62314_ARZ8DZS1_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62261_99Z0HIK2_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62314_ARZ8DZS1_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62261_SJZYUNBJ_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62476_Z8GFDCIZ_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63401_TBZWTSB7_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62261_99Z0HIK2_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "52845_75VB1ISR_4_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62261_99Z0HIK2_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63401_TBZWTSB7_2_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62314_ARZ8DZS1_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63523_3B46MIE8_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62314_ARZ8DZS1_9_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61430_X9N4VIUX_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61285_D8AIH84L_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61430_X9N4VIUX_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62476_Z8GFDCIZ_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62476_Z8GFDCIZ_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "63401_TBZWTSB7_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62476_Z8GFDCIZ_3_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "63401_TBZWTSB7_8_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62476_Z8GFDCIZ_7_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "62476_Z8GFDCIZ_1_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "63401_TBZWTSB7_3_0",
+        "forward_comparison": "1",
+        "backward_comparison": "2"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "wrong_answer_model": "DeepSeek-V3",
+        "pid": "62261_99Z0HIK2_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "61430_X9N4VIUX_5_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
+    },
+    {
+        "judge_model": "o3-2025-04-16",
+        "correct_answer_model": "DeepSeek-V3",
+        "wrong_answer_model": "Meta-Llama-3.1-8B-Instruct-Turbo",
+        "pid": "63041_TFO74FFD_6_0",
+        "forward_comparison": "2",
+        "backward_comparison": "1"
     }
 ]
